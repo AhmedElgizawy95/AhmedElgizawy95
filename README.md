@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedElgizawy95
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack .NET.
+- 🌱 I’m currently learning Full Stack .NET Developing.
 - 💞️ I’m looking to collaborate on being better in Programming
 - 📫 How to reach me elgizawy.ahmed.21@gmail.com
 
