@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AhmedElgizawy95
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently .NET Developer.
 - 💞️ I’m looking to collaborate on being better in Software Engineering
 - 📫 How to reach me elgizawy.ahmed.21@gmail.com
 
